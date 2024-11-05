@@ -9,5 +9,5 @@ https://patrickfrankaiu.github.io/InventoryMgmt2405A/
 Results from Last Term: 
 https://patrickfrankaiu.github.io/InventoryMgmt2404B/
 
-Here's an image showing the completed page without the CSS: 
+Here's an image showing the completed page without CSS: 
 ![image](https://github.com/user-attachments/assets/7df5e498-9b7c-40e0-888d-7ab86f6b1481)
