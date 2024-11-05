@@ -3,10 +3,11 @@
 # InventoryMgmt2403B
 **Inventory Management Project, ITWEB 220, Term 2404A**
 
-This page is hosted on GitHub Pages. To view the page, click here: https://patrickfrankaiu.github.io/InventoryMgmt2404B/
+This page is hosted on GitHub Pages. To view the page, click here:
 
-**Note:** This is the working project, with the steps to completed listed under Issues. To see the completed project, visit this repository: 
-https://github.com/PatrickFrankAIU/InventoryMgmt2403B-END
+
+Results from Last Term: 
+https://patrickfrankaiu.github.io/InventoryMgmt2404B/
 
 Here's an image showing the completed page without the CSS: 
 ![image](https://github.com/user-attachments/assets/7df5e498-9b7c-40e0-888d-7ab86f6b1481)
